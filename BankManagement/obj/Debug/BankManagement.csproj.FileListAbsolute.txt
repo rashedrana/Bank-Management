@@ -1,0 +1,14 @@
+C:\Users\rkbhs\source\repos\BankManagement\bin\Debug\BankManagement.exe.config
+C:\Users\rkbhs\source\repos\BankManagement\bin\Debug\BankManagement.exe
+C:\Users\rkbhs\source\repos\BankManagement\bin\Debug\BankManagement.pdb
+C:\Users\rkbhs\source\repos\BankManagement\obj\Debug\BankManagement.csprojAssemblyReference.cache
+C:\Users\rkbhs\source\repos\BankManagement\obj\Debug\BankManagement.csproj.CoreCompileInputs.cache
+C:\Users\rkbhs\source\repos\BankManagement\obj\Debug\BankManagement.exe
+C:\Users\rkbhs\source\repos\BankManagement\obj\Debug\BankManagement.pdb
+C:\Users\rashe\Downloads\BankManagement\BankManagement\bin\Debug\BankManagement.exe.config
+C:\Users\rashe\Downloads\BankManagement\BankManagement\bin\Debug\BankManagement.exe
+C:\Users\rashe\Downloads\BankManagement\BankManagement\bin\Debug\BankManagement.pdb
+C:\Users\rashe\Downloads\BankManagement\BankManagement\obj\Debug\BankManagement.csprojAssemblyReference.cache
+C:\Users\rashe\Downloads\BankManagement\BankManagement\obj\Debug\BankManagement.csproj.CoreCompileInputs.cache
+C:\Users\rashe\Downloads\BankManagement\BankManagement\obj\Debug\BankManagement.exe
+C:\Users\rashe\Downloads\BankManagement\BankManagement\obj\Debug\BankManagement.pdb
