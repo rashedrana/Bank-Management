@@ -1,2 +1,2 @@
 # Bank-Management
-A Bank Management software using C#. Features: Bank Credit, Deposit, Account Balance etc.
+A Bank Management software using C#. Features: User Details, Bank Credit, Account Balance etc.
